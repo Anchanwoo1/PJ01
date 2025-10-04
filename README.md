@@ -9,7 +9,7 @@
 ---
 
 ## ⚙️ 기술 스택
-### ⚙️ Tech Stack
+
 
 **Frontend**  
 ![JSP](https://img.shields.io/badge/JSP-blue?logo=java&logoColor=white) 
