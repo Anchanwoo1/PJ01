@@ -9,11 +9,31 @@
 ---
 
 ## ⚙️ 기술 스택
-- **Frontend** : JSP, HTML5, CSS3, JavaScript, jQuery  
-- **Backend** : Java (Spring Framework), MyBatis  
-- **Database** : Oracle DB  
-- **Server** : Apache Tomcat 9.0  
-- **IDE/Tools** : Eclipse(STS 3.9), GitHub  
+### ⚙️ Tech Stack
+
+**Frontend**  
+![JSP](https://img.shields.io/badge/JSP-blue?logo=java&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?logo=databricks&logoColor=white)
+
+**Database**  
+![Oracle DB](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+
+**Server**  
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black)
+
+**IDE/Tools**  
+![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white)
+![STS](https://img.shields.io/badge/STS-6DB33F?logo=spring&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 
 ---
 
