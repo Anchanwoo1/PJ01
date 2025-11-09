@@ -50,11 +50,68 @@
 - **고객센터**
   - 칭찬 릴레이 게시판 
   - 문의/공지사항 관리
+- **관리자 기능**
+  - 의료진 및 협진의 가입 요청 승인 및 계정 관리
+  - 환자 정보, 진료 및 협진 기록 등 사용자 데이터 통합 관리
 
 ---
  ## 🗂️ ERD (Entity Relationship Diagram)
 
 병원정보 시스템에서 사용되는 주요 테이블과 관계 구조를 정리한 ERD입니다.
-환자, 의료진, 예약, 협진, 제증명, 고객센터 기능을 중심으로 구성되어 있습니다.
 
+<img width="1930" height="1417" alt="Image" src="https://github.com/user-attachments/assets/43e8f11e-e748-44cf-bcf3-eaa845bbfd7d" />
 
+---
+
+🖼️ 주요 화면 (Screenshots) 
+<table>
+  <tr>
+    <td align="center">예약 </td>
+    <td align="center">예약 완료</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cc51e726-db4c-41a5-8fa0-4fcdef4616eb" width="550"></td>
+    <td><img src="https://github.com/user-attachments/assets/bc63baa6-cadc-4bf3-9a9d-3ed3afaa2fc2" width="550"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">증명서 발급 신청</td>
+    <td align="center">증명서 발급</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e944ce3e-81e0-4e7f-bb34-67e68bcea3ad" width="550"></td>
+    <td><img src="https://github.com/user-attachments/assets/f6574d38-81c7-4581-9e94-c7c55e385ae5" width="550"></td>
+  </tr>
+</table>
+<table>
+ <table>
+  <tr>
+    <td align="center">의료진 기능</td>
+    <td align="center">관리자 대시보드</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/eacc6116-7f46-4cc1-a4f9-110dca9356bf" width="550"></td>
+    <td><img src="https://github.com/user-attachments/assets/e3dae107-381e-457d-955f-4cc11ff46955" width="550"></td>
+  </tr>
+</table> 
+
+---
+
+🛠️ 추가 적용 기술
+
+- **SHA-512 암호화**
+  - 사용자 비밀번호를 안전하게 저장하기 위해 SHA-512 적용
+
+- **카카오 로그인**
+  - 카카오 OAuth 인증을 이용한 간편 로그인 기능 제공
+
+- **카카오 지도 API**
+  - 병원 위치 표시 및 주소 기반 지도 조회 기능 구현
+
+- **Highcharts**
+  - 관리자 대시보드의 통계 데이터를 그래프 · 차트 형태로 시각화
+
+- **네이버 스마트에디터**
+  - 공지사항 및 게시판 작성 시 리치 텍스트 편집 기능 제공
